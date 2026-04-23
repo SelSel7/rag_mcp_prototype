@@ -16,9 +16,5 @@ Thumbs.db
 # VS Code
 .vscode/
 
-# Results
-results/*.csv
-results/*.xlsx
-
 # Logs / temp
 *.log
