@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector database
+vectorstore/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Results
+results/*.csv
+results/*.xlsx
+
+# Logs / temp
+*.log
